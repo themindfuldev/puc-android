@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reduced_app_name">TomaNotas</string>
+    <string name="app_name">TomaNotas</string>
+    <string name="whatYouWantToDo">O que deseja fazer?</string>
+    <string name="createATextNote">Criar uma nota textual</string>
+    <string name="createANote">Criar uma nota</string>
+    <string name="takeAPicture">Criar uma nota fotográfica</string>
+    <string name="recordAnAudio">Criar uma nota de áudio</string>
+    <string name="seeNotes">Ver as notas existentes</string>
+    <string name="seeANote">Ver nota</string>
+    <string name="title">Título</string>
+    <string name="save">Salvar</string>
+    <string name="confirm">Tem certeza?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="saved">Nota foi salva com sucesso!</string>
+    <string name="type">Tipo</string>
+    <string name="content">Conteúdo</string>
+    <string name="titleIsEmpty">O título é obrigatório! Favor inserir seu valor.</string>
+    <string name="contentIsEmpty">O conteúdo é obrigatório! Favor inserir seu valor.</string>
+    <string name="waitingForLocation">Esperando pela localização atual… Favor manter ativado seu GPS ou Wi-fi. Favor aguardar alguns segundos.</string>
+    <string name="creationDate">Data de criação</string>
+    <string name="location">Localização</string>
+    <string name="start">Iniciar</string>
+    <string name="viewContent">Ver conteúdo</string>
+    
+
+</resources>

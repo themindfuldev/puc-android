@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Tiago Romero Garcia</string>
+    <string name="app_name">HelloWorld</string>
+    <string name="me_aperta">Me aperta!</string>
+
+</resources>
